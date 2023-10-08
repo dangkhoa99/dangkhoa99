@@ -1,4 +1,14 @@
-### Hi there 👋
+<div align="center">
+   <h1><a color="red" href="https://github.com/dangkhoa99" alt="Khoa Nguyen">Hi there, I'm Khoa Nguyen</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+</div>
+
+[![wakatime](https://wakatime.com/badge/user/59d3bede-a3d8-48c0-b7fa-f17b1a9a134b.svg)](https://wakatime.com/@59d3bede-a3d8-48c0-b7fa-f17b1a9a134b "Total time coded since Nov 16 2022")
+
+
+<h2>Education </h2>
+
+> **08/2018 - 09/2023** _Ho Chi Minh city_ \
+> 📚 Student of Computer Science at Ton Duc Thang University. 
 
 <!--
 **dangkhoa99/dangkhoa99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
